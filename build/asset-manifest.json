@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/labagenda/static/css/main.ce156405.css",
+    "main.js": "/labagenda/static/js/main.72d27bb1.js",
+    "index.html": "/labagenda/index.html",
+    "main.ce156405.css.map": "/labagenda/static/css/main.ce156405.css.map",
+    "main.72d27bb1.js.map": "/labagenda/static/js/main.72d27bb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce156405.css",
+    "static/js/main.72d27bb1.js"
+  ]
+}
